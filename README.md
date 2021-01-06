@@ -7,7 +7,7 @@ Venha fazer parte do nosso time!
 
 Nascemos da missão de apoiar empreendedores a conquistarem seus sonhos.
 
-Nossa cultura tecnologia gera destaque no mercado e buscamos profissionais que possam contribuir em um time de resultados. 
+Nossa cultura tecnológica gera destaque no mercado e buscamos profissionais que possam contribuir em um time de resultados. 
 
 [**Saiba mais sobre a Eyemobile aqui**](https://www.eyemobile.com.br)
 
