@@ -25,7 +25,6 @@ Nesta interface, você deverá contemplar:
 
 A interface deverá manipular uma API Restful com autenticação básica, com métodos que correspondam aos requisitos acima.
 
-O desafio deverá ser entregue com source no GitHub (público) e fornecer uma implementação funcional através de uma **URL PÚBLICA**.
 
 # Stack
 
@@ -33,3 +32,11 @@ Você precisará utilizar as seguintes tecnologias:
 * React.js v17.+
 * Node.js v14.+
 * MySQL v8.+
+
+
+# Entregável
+
+- [x] URL do repósitório git contendo a base de código para o desafio.
+- [x] Disponibilizar implementação funcional do desafio em uma **URL PÚBLICA**.
+- [x] Sequência de instruções para instalação e execução do desafio funcional.
+
