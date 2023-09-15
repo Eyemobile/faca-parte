@@ -29,3 +29,7 @@ O desafio deverá ser entregue com source no GitHub (público) e também em form
 
 Você precisará utilizar as seguintes tecnologias:
 * Java ou Kotlin
+
+# Design de Telas
+
+[protótipo figma](https://www.figma.com/file/s5ejoE51CVReAGNvQOR0Db/EyeCoffe?type=design&node-id=0-1&mode=design&t=89r6HSWjTDCKxoJF-0)
